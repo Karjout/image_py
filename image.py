@@ -1,4 +1,5 @@
 #coded BY abdeslam_karjout
+#!/usr/bin/python
 from PIL import Image
 import os
 for f in os.listdir('.'):
